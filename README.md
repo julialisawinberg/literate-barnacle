@@ -6,3 +6,4 @@
 5. femte grejen på min lista
 6. ännu en
 7. yes
+8. läffet till
