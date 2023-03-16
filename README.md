@@ -5,3 +5,4 @@
 4. fjärde grejen i min lista
 5. femte grejen på min lista
 6. ännu en
+7. yes
